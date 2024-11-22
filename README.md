@@ -26,7 +26,9 @@ Evaluation of the model's accuracy on both training and test datasets.
 A predictive system to determine heart disease likelihood for new data.
 
 **Technologies Used**
+
 ==>  **Python**
+
 ==>  **Libraries:**
 Pandas
 NumPy
@@ -55,7 +57,7 @@ Achieving comparable scores ensures that the model is neither overfitting nor un
 
 **Installation**
 1.  Clone this repository:
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   https://github.com/HiteshGupta03/Heart_Disease_Prediction.git
 
 2.  Navigate to the project directory:
   cd heart-disease-prediction
